@@ -1,4 +1,4 @@
-# broccoli_web_app
+# broccoli-web-app
 
 > A Vue.js project
 
